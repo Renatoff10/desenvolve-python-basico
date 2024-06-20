@@ -1,0 +1,19 @@
+Para calcular a multiplicação de 9 por qualquer número 
+𝑛
+n utilizando o truque da tabuada do 9, seguimos um método que envolve a decomposição do resultado em dois dígitos. O primeiro dígito é obtido subtraindo 1 de 
+𝑛
+n, e o segundo dígito é obtido subtraindo 
+𝑛
+n de 10. O resultado final é composto pelo primeiro dígito multiplicado por 10, somado ao segundo dígito.
+
+Por exemplo, para 
+9 × 7
+9×7:
+
+Primeiro dígito (𝑑𝑖𝑔𝑖𝑡𝑜1) = 7−1=6 
+Segundo dígito (digito2) = 10−7=3
+
+Assim,
+9×7=6×10+3=63
+
+Este método simplifica o cálculo da tabuada do 9, transformando-o em um processo direto de decomposição e soma dos resultados parciais.

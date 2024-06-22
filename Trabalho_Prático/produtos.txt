@@ -1,0 +1,2 @@
+codigo,nome,preco,quantidade
+20,Laranja,10.0,25

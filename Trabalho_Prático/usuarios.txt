@@ -1,0 +1,2 @@
+nome,senha,permissao
+Teste,1234,gerente
